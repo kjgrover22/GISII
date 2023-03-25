@@ -2,7 +2,8 @@
 
 <h2> Location Allocation for EV Stations in Canadian Cities </h2> 
 
-![gis](https://user-images.githubusercontent.com/98429290/227738389-43ec5c56-cd2e-489d-b09a-2dcdbd546191.png)
+
+![gis](https://user-images.githubusercontent.com/98429290/227738783-373999d6-2761-4586-91f5-a8899a050643.png)
 
 
 <h2>Description</h2>
